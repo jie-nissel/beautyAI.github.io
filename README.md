@@ -1,1 +1,1 @@
-# beautyAI.github.io
+# jie-nissel.github.io
