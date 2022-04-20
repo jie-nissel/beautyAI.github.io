@@ -10,10 +10,10 @@
   </p>
   <p>Click on the "Choose File" button to upload a image:</p> 
 
-  <form action="/action_page.php">
+  <!-- <form action="/action_page.php">
     <input type="file" id="myFile" name="filename">
     <input type="submit">
-  </form>
+  </form> -->
 </body>
 
 <button type="button"
@@ -21,4 +21,10 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
+
+<body>
+  <input type='file' onchange="readURL(this);" />
+    <img id="blah" src="#" alt="your image" />
+</body>
+
 </html>
