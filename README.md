@@ -11,5 +11,5 @@ Do you know your skin undertone?
 * Neutral
 * Olive
 
-What does it mean to you? 
+What does it mean to you? - Feel the best of yourself. 
 
